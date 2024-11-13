@@ -1,0 +1,5 @@
+C:\Users\21548\OneDrive\Desktop\GameCaro.exe
+C:\Users\21548\OneDrive\Desktop\GameCaro.dll
+C:\Users\21548\OneDrive\Desktop\GameCaro.deps.json
+C:\Users\21548\OneDrive\Desktop\GameCaro.runtimeconfig.json
+C:\Users\21548\OneDrive\Desktop\GameCaro.pdb
