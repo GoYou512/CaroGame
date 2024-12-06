@@ -1,6 +1,6 @@
 # Caro 
-unzip file rar, có thể mở trong visual studio (gamecaro.sln) chạy ra 1 màn hình game trước
-hoặc vào bin -> debug/release (chỉ chọn 1) -> net8.0 -> GameCaro.exe để mở cả 2 màn hình game
+unzip file rar, 
+vào bin -> Vào debug/release (chỉ chọn 1 trong 2) -> net8.0 -> GameCaro.exe để mở 2 màn hình game
 
 Kiểm tra IP mạng, giống nhau -> nhấn LAN cả 2 màn hình
 
